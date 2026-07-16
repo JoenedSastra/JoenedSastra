@@ -8,7 +8,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Full+Stack+Web+Developer;Laravel+Developer;PHP+%7C+MySQL+%7C+Bootstrap;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;+Web+Developer;Laravel+Developer;PHP+%7C+MySQL+%7C+Bootstrap;Always+Learning+New+Things+🚀" />
 
 </p>
 
