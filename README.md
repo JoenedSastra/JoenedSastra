@@ -2,10 +2,10 @@
 
 # 👋 Hi, I'm Joened Sastra
 
-### 💻 Full Stack Web Developer
+### 💻 Web Developer
 
 <p>
-Saya merupakan mahasiswa yang sedang belajar <b>Web Development</b> menggunakan
+Saya merupakan seorang mahasiswa yang sedang belajar <b>Web Development</b> menggunakan
 <b>Laravel</b>, <b>PHP</b>, <b>MySQL</b>, <b>Bootstrap</b>, dan <b>Firebase</b>.
 </p>
 
