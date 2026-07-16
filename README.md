@@ -30,33 +30,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JoenedSastra&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoenedSastra&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=JoenedSastra&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JoenedSastra&theme=tokyonight&margin-w=15"/>
 
 </p>
 
@@ -84,10 +62,6 @@
 
 <a href="https://instagram.com/username">
 <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
-</a>
-
-<a href="https://linkedin.com/in/username">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
