@@ -1,46 +1,96 @@
 <div align="center">
 
-# 👋 Hi, I'm Joened Sastra
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Joened Sastra
 
-### 💻 Web Developer
+### 🚀 Full Stack Web Developer
 
-<p>
-Saya merupakan seorang mahasiswa yang sedang belajar <b>Web Development</b> menggunakan
-<b>Laravel</b>, <b>PHP</b>, <b>MySQL</b>, <b>Bootstrap</b>, dan <b>Firebase</b>.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Laravel+Developer;Full+Stack+Web+Developer;PHP+%7C+MySQL+%7C+Bootstrap;Always+Learning+New+Things+🚀" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Web+Developer;Laravel+%7C+PHP+%7C+MySQL;Always+Learning+New+Things+%F0%9F%9A%80" />
+<br>
 
-<br><br>
+<img src="https://komarev.com/ghpvc/?username=JoenedSastra&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-<img src="https://komarev.com/ghpvc/?username=JoenedSastra&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/JoenedSastra?style=for-the-badge">
+
+<img src="https://img.shields.io/github/stars/JoenedSastra?style=for-the-badge">
 
 </div>
 
 ---
 
-## 🚀 Tech Stack
+# 💫 About Me
+
+💻 Full Stack Web Developer
+
+🎓 Information Systems Student
+
+🌱 Currently learning Laravel 12, REST API, Firebase & Clean Architecture
+
+🔥 Interested in Backend Development
+
+🚀 Building useful applications for real-world problems.
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,bootstrap,js,firebase,git,github,vscode&perline=5"/>
+
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,bootstrap,html,css,js,firebase,git,github,vscode,figma&perline=6"/>
+
 </p>
 
 ---
 
-## 📂 Featured Projects
+# 🚀 Featured Projects
 
-- 🍽 **WebKokiku** – Restaurant Management System
-- 🌄 **EcoHike** – Tourism Website
-- 🛒 **GreenStore** – Online Store
-- 🍴 **Warung Nusantara** – Restaurant Ordering System
+| Project | Description |
+|----------|-------------|
+| 🍽 WebKokiku | Restaurant Management System |
+| 🌄 EcoHike | Tourism Information Website |
+| 🛒 GreenStore | E-Commerce Website |
+| 🍴 Warung Nusantara | Restaurant Ordering System |
 
 ---
 
-## 📫 Connect with Me
+# 📊 GitHub Stats
 
 <p align="center">
-<a href="mailto:emailkamu@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoenedSastra&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoenedSastra&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=JoenedSastra&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JoenedSastra&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/username">
@@ -50,4 +100,5 @@ Saya merupakan seorang mahasiswa yang sedang belajar <b>Web Development</b> meng
 <a href="https://linkedin.com/in/username">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 </p>
