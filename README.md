@@ -54,10 +54,6 @@
 
 <p align="center">
 
-<a href="https://whatsapp.com/081345469594">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
 <a href="https://instagram.com/joo.joeyy">
 <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
 </a>
