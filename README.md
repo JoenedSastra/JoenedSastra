@@ -26,8 +26,6 @@
 - Firebase
 - MySQL
 
-🔥 Passionate about creating modern web applications.
-
 ---
 
 ## 🚀 Featured Projects
