@@ -1,9 +1,3 @@
-<!-- ===================== BANNER ===================== -->
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/JoenedSastra/JoenedSastra/main/banner.gif" width="100%">
-</p>
-
 <!-- ===================== HEADER ===================== -->
 
 <h1 align="center">Hi 👋, I'm Joened Sastra</h1>
@@ -22,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-💻 Full Stack Web Developer
+💻 Web Developer
 
 🎓 Information Systems Student
 
@@ -30,20 +24,9 @@
 
 - Laravel 12
 - Firebase
-- REST API
 - MySQL
 
 🔥 Passionate about creating modern web applications.
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,bootstrap,html,css,js,firebase,git,github,vscode,figma&perline=6"/>
-
-</p>
 
 ---
 
