@@ -54,7 +54,7 @@
 
 <p align="center">
 
-<a href="mailto:joenedsastra812@gmail.com">
+<a href="https://whatsapp.com/081345469594">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
