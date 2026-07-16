@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Joened Sastra</h1>
 
 <h3 align="center">
-🚀 Full Stack Web Developer
+🚀 Web Developer
 </h3>
 
 <p align="center">
