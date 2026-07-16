@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Joened Sastra
 
-<!--
-**JoenedSastra/JoenedSastra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full Stack Web Developer
 
-Here are some ideas to get you started:
+Saya merupakan mahasiswa yang sedang belajar Web Development menggunakan Laravel, PHP, MySQL, Bootstrap dan Firebase.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+- Laravel
+- PHP
+- MySQL
+- Bootstrap
+- JavaScript
+- Firebase
+- Git
+- GitHub
+
+---
+
+## 📂 Featured Projects
+
+🍽 WebKokiku
+
+🌄 EcoHike
+
+🛒 GreenStore
+
+🍴 Warung Nusantara
+
+---
+
+## 📫 Contact
+
+📧 Email : emailkamu@gmail.com
+
+🌐 Instagram : @username
+
+💼 LinkedIn : linkedin.com/in/username
