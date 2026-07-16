@@ -30,16 +30,6 @@
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=JoenedSastra&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 🍽 WebKokiku
